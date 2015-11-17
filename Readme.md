@@ -3,8 +3,6 @@
 * License - The MIT License
 * Test on Cordova 3.4.0
 
-Copied from - https://github.com/companje/org.apache.cordova.wifiinfo
-
 ##Install Step (Cordova CLI)
 
 
