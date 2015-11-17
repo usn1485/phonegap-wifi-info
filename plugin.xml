@@ -2,14 +2,14 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="org.apache.cordova.wifiinfo"
-    version="0.1.1">
+    id="org.apache.cordova.new-wifiinfo"
+    version="0.2.1">
 
     <name>Wifi Network Information</name>
     <description>Cordova Wifi Network Information Plugin</description>
     <license>MIT</license>
     <keywords>network,wifi,wifiinfo</keywords>
-    <repo>https://github.com/dippi/org.apache.cordova.wifiinfo</repo>
+    <repo>https://github.com/usn1485/phonegap-wifi-info.git</repo>
 
     <js-module src="www/WifiInfo.js" name="wifi">
         <clobbers target="navigator.wifi" />
